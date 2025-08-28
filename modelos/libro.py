@@ -4,7 +4,7 @@ from modelos.autor import Autor
 
 
 class Libro(Biblioteca, Categoria, Autor):
-    def __init__(self, id_libro, id_biblioteca, id_categoria, id_autor, titulo, paginas, copias):
+    def __init__(self, id_libro, id_biblioteca, id_categoria, id_autor, titulo, paginas, copias, habilitado):
         super().__init__(id_biblioteca)  # type:ignore
         super().__init__(id_categoria)  # type:ignore
         super().__init__(id_autor)  # type:ignore
@@ -12,3 +12,4 @@ class Libro(Biblioteca, Categoria, Autor):
         self.titulo = titulo
         self.paginas = paginas
         self.copias = copias
+        self.habilitado = habilitado
