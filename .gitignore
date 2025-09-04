@@ -1,3 +1,6 @@
 modelos/__pycache__/biblioteca.cpython-313.pyc
 modelos/__pycache__/comuna.cpython-313.pyc
 modelos/__pycache__/direccion.cpython-313.pyc
+ORM/data/__pycache__/conexion.cpython-313.pyc
+ORM/modelos/__pycache__/comuna.cpython-313.pyc
+ORM/modelos/__pycache__/nacionalidad.cpython-313.pyc
