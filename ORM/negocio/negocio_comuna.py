@@ -22,3 +22,7 @@ def obtener_comuna(buscar_comuna: str):
         return comuna
     else:
         print('No se ha encontrado su comuna...')
+
+
+def guardar_comuna():
+    pass
