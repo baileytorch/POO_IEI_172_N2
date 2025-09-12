@@ -4,3 +4,10 @@ modelos/__pycache__/direccion.cpython-313.pyc
 ORM/data/__pycache__/conexion.cpython-313.pyc
 ORM/modelos/__pycache__/comuna.cpython-313.pyc
 ORM/modelos/__pycache__/nacionalidad.cpython-313.pyc
+ORM/modelos_orm/__pycache__/autor.cpython-313.pyc
+ORM/modelos_orm/__pycache__/base.cpython-313.pyc
+ORM/modelos_orm/__pycache__/comuna.cpython-313.pyc
+ORM/modelos_orm/__pycache__/nacionalidad.cpython-313.pyc
+ORM/negocio/__pycache__/negocio_autor.cpython-313.pyc
+ORM/negocio/__pycache__/negocio_comuna.cpython-313.pyc
+ORM/negocio/__pycache__/negocio_nacionalidad.cpython-313.pyc
